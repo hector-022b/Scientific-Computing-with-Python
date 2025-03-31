@@ -1,5 +1,3 @@
-# luhn_algorithm
-
 # Luhn Algorithm - Credit Card Validator 💳🚀
 
 **Description:**  
