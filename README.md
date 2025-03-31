@@ -27,9 +27,9 @@ Through these projects, I gained hands-on experience with:
 | 🚀 **Project Name** | 📌 **Key Concepts** | 🗓️ **Status** |
 |---------------------|---------------------|----------------|
 | **1️⃣ Cipher** | String manipulation, encoding | Completed |
-| **2️⃣ Luhn Algorithm** | Numerical operations, string processing | Completed |
-| **3️⃣ Expense Tracker** | Lambda functions, expense tracking | Completed |
-| **4️⃣ Case Converter** | List comprehension, string manipulation | Not Started |
+| **2️⃣ Luhn Algorithm** | Numerical operations, string processing | ✅Completed |
+| **3️⃣ Expense Tracker** | Lambda functions, expense tracking | ✅Completed |
+| **4️⃣ Case Converter** | List comprehension, string manipulation | 🟡 In Progress |
 | **5️⃣ Square Root Algorithm** | Bisection method, number manipulation | Not Started |
 | **6️⃣ Arithmetic Formatter** | String formatting, mathematical operations | Not Started |
 | **7️⃣ Password Generator** | Regular expressions, password validation | Not Started |
@@ -46,6 +46,7 @@ Through these projects, I gained hands-on experience with:
 ---
 
 <!--
+⏳
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hector-022b&show_icons=true&theme=tokyonight" />
