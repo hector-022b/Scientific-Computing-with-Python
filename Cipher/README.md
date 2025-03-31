@@ -22,3 +22,6 @@ message = "Hello, World!"
 shift = 3
 encoded = encrypt_message(message, shift)
 print(encoded)  # Output: "Khoor, Zruog!"
+```
+## 🎓 Credits
+This project is part of the "Learn String Manipulation by Building a Cipher" course by freeCodeCamp. **[freeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)**.  
