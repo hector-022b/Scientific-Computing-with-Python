@@ -29,7 +29,7 @@ Through these projects, I gained hands-on experience with:
 | **1️⃣ Cipher** | String manipulation, encoding | ✅Completed |
 | **2️⃣ Luhn Algorithm** | Numerical operations, string processing | ✅Completed |
 | **3️⃣ Expense Tracker** | Lambda functions, expense tracking | ✅Completed |
-| **4️⃣ Case Converter** | List comprehension, string manipulation | 🟡In Progress |
+| **4️⃣ Case Converter** | List comprehension, string manipulation | 🛠In Progress |
 | **5️⃣ Square Root Algorithm** | Bisection method, number manipulation | Not Started |
 | **6️⃣ Arithmetic Formatter** | String formatting, mathematical operations | Not Started |
 | **7️⃣ Password Generator** | Regular expressions, password validation | Not Started |
