@@ -1,4 +1,4 @@
-# python_LuhnAlgorithm
+# luhn_algorithm
 
 # Luhn Algorithm - Credit Card Validator 💳🚀
 
