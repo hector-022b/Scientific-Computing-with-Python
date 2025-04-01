@@ -17,15 +17,74 @@ The expense tracker follows these steps:
 4️⃣ Display a summary of financial data  
 
 ## 📌 Example Usage  
-```python
-expenses = [
-    {"category": "Food", "amount": 12.50},
-    {"category": "Transport", "amount": 5.00},
-    {"category": "Entertainment", "amount": 20.00}
-]
+### Example Input and Output
 
-total_spent = calculate_total(expenses)
-print(total_spent)  # Output: Total expenses: $37.50
+#### Adding an Expense
+```
+Expense Tracker
+1. Add an expense
+2. List all expenses
+3. Show total expenses
+4. Filter expenses by category
+5. Exit
+Enter your choice: 1
+Enter amount: 50.75
+Enter category: Food
+```
+
+#### Listing All Expenses
+```
+Expense Tracker
+1. Add an expense
+2. List all expenses
+3. Show total expenses
+4. Filter expenses by category
+5. Exit
+Enter your choice: 2
+
+All Expenses:
+Amount: 50.75, Category: Food
+```
+
+#### Showing Total Expenses
+```
+Expense Tracker
+1. Add an expense
+2. List all expenses
+3. Show total expenses
+4. Filter expenses by category
+5. Exit
+Enter your choice: 3
+
+Total Expenses: 50.75
+```
+
+#### Filtering Expenses by Category
+```
+Expense Tracker
+1. Add an expense
+2. List all expenses
+3. Show total expenses
+4. Filter expenses by category
+5. Exit
+Enter your choice: 4
+Enter category to filter: Food
+
+Expenses for Food:
+Amount: 50.75, Category: Food
+```
+
+#### Exiting the Program
+```
+Expense Tracker
+1. Add an expense
+2. List all expenses
+3. Show total expenses
+4. Filter expenses by category
+5. Exit
+Enter your choice: 5
+
+Exiting the program.
 ```
 ## 🎓 Credits
 This project is part of the "Learn Lambda Functions by Building an Expense Tracker" course by freeCodeCamp. **[freeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)**.  
