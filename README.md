@@ -30,8 +30,8 @@ Through these projects, I gained hands-on experience with:
 | **2️⃣ Luhn Algorithm** | Numerical operations, string processing | ✅Completed |
 | **3️⃣ Expense Tracker** | Lambda functions, expense tracking | ✅Completed |
 | **4️⃣ Case Converter** | List comprehension, string manipulation | ✅Complete |
-| **5️⃣ Square Root Algorithm** | Bisection method, number manipulation | 🛠In Progress |
-| **6️⃣ Arithmetic Formatter** | String formatting, mathematical operations | Not Started |
+| **5️⃣ Square Root Algorithm** | Bisection method, number manipulation | ✅Complete |
+| **6️⃣ Arithmetic Formatter** | String formatting, mathematical operations | 🛠In Progress |
 | **7️⃣ Password Generator** | Regular expressions, password validation | Not Started |
 | **8️⃣ Shortest Path Algorithm** | Algorithm design, pathfinding | Not Started |
 | **9️⃣ Tower of Hanoi** | Recursion, problem-solving | Not Started |
