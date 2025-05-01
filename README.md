@@ -31,9 +31,9 @@ Through these projects, I gained hands-on experience with:
 | **3️⃣ Expense Tracker** | Lambda functions, expense tracking | ✅Completed |
 | **4️⃣ Case Converter** | List comprehension, string manipulation | ✅Complete |
 | **5️⃣ Square Root Algorithm** | Bisection method, number manipulation | ✅Complete |
-| **6️⃣ Arithmetic Formatter** | String formatting, mathematical operations | 🛠In Progress |
-| **7️⃣ Password Generator** | Regular expressions, password validation | Not Started |
-| **8️⃣ Shortest Path Algorithm** | Algorithm design, pathfinding | Not Started |
+| **6️⃣ Arithmetic Formatter** | String formatting, mathematical operations | ✅Complete |
+| **7️⃣ Password Generator** | Regular expressions, password validation | ✅Complete |
+| **8️⃣ Shortest Path Algorithm** | Algorithm design, pathfinding | 🛠In Progress |
 | **9️⃣ Tower of Hanoi** | Recursion, problem-solving | Not Started |
 | **🔟 Merge Sort Algorithm** | Data structures, sorting | Not Started |
 | **1️⃣1️⃣ Sudoku Solver** | Classes, objects, problem-solving | Not Started |
