@@ -33,8 +33,8 @@ Through these projects, I gained hands-on experience with:
 | **5️⃣ Square Root Algorithm** | Bisection method, number manipulation | ✅Complete |
 | **6️⃣ Arithmetic Formatter** | String formatting, mathematical operations | ✅Complete |
 | **7️⃣ Password Generator** | Regular expressions, password validation | ✅Complete |
-| **8️⃣ Shortest Path Algorithm** | Algorithm design, pathfinding | 🛠In Progress |
-| **9️⃣ Tower of Hanoi** | Recursion, problem-solving | Not Started |
+| **8️⃣ Shortest Path Algorithm** | Algorithm design, pathfinding | ✅Complete |
+| **9️⃣ Tower of Hanoi** | Recursion, problem-solving | 🛠In Progress |
 | **🔟 Merge Sort Algorithm** | Data structures, sorting | Not Started |
 | **1️⃣1️⃣ Sudoku Solver** | Classes, objects, problem-solving | Not Started |
 | **1️⃣2️⃣ Binary Search Tree** | Tree traversal, data structures | Not Started |
